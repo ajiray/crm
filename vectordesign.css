@@ -1,0 +1,63 @@
+.vector-container {
+  width: 100%;
+  top:118px;
+}
+.vector-dummy-container {
+  top: 116px;
+  left: 110px;
+  width: 1566px;
+  height: 752px;
+  position: absolute;
+  background-color: #fdfdfd;
+}
+.vector-vector {
+  top: 0px;
+  left: -374px;
+  width: 1116px;
+  height: 752px;
+  position: absolute;
+}
+.vector-textinput {
+  top: 186px;
+  left: 464px;
+  width: 348px;
+  height: 55px;
+  position: absolute;
+}
+.vector-textinput1 {
+  top: 258px;
+  left: 464px;
+  width: 348px;
+  height: 55px;
+  position: absolute;
+}
+.vector-textinput2 {
+  top: 326px;
+  left: 464px;
+  width: 348px;
+  height: 55px;
+  position: absolute;
+}
+.vector-textinput3 {
+  top: 396px;
+  left: 464px;
+  width: 348px;
+  height: 55px;
+  position: absolute;
+}
+.vector-textinput4 {
+  top: 466px;
+  left: 464px;
+  width: 348px;
+  height: 55px;
+  position: absolute;
+}
+.vector-text {
+  top: 221px;
+  left: 518px;
+  position: absolute;
+  font-size: 48px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700;
+}

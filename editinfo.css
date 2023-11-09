@@ -1,0 +1,196 @@
+.editinfo-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.editinfo-editinfo {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.editinfo-text {
+  top: 122px;
+  left: 616px;
+  color: rgba(0, 0, 0, 1);
+  width: 232px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editinfo-firstname {
+  top: 255px;
+  left: 616px;
+  width: 405px;
+  height: 108px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.editinfo-text02 {
+  color: rgba(27, 27, 27, 1);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editinfo-address {
+  top: 507px;
+  left: 616px;
+  width: 876px;
+  height: 108px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.editinfo-text04 {
+  color: rgba(27, 27, 27, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editinfo-address1 {
+  top: 381px;
+  left: 616px;
+  width: 876px;
+  height: 108px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.editinfo-text06 {
+  color: rgba(27, 27, 27, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editinfo-lastname {
+  top: 255px;
+  left: 1085px;
+  width: 407px;
+  height: 108px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.editinfo-text08 {
+  color: rgba(27, 27, 27, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editinfo-vector {
+  top: -13px;
+  left: -31px;
+  width: 537px;
+  height: 1102px;
+  position: absolute;
+}
+.editinfo-textinput {
+  top: 295px;
+  left: 614px;
+  width: 400px;
+  height: 70px;
+  position: absolute;
+}
+.editinfo-textinput1 {
+  top: 419px;
+  left: 614px;
+  width: 870px;
+  height: 70px;
+  position: absolute;
+}
+.editinfo-textinput2 {
+  top: 547px;
+  left: 614px;
+  width: 870px;
+  height: 70px;
+  position: absolute;
+}
+.editinfo-textinput3 {
+  top: 295px;
+  left: 1084px;
+  width: 400px;
+  height: 70px;
+  position: absolute;
+}
+.editinfo-save {
+  top: 662px;
+  left: 826px;
+  color: #ffffff;
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  border-color: #17c5fc;
+  background-color: #17c5fc;
+  cursor:pointer;
+}
+.editinfo-save1 {
+  top: 662px;
+  left: 614px;
+  color: #17c5fc;
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  border-color: #17c5fc;
+  background-color: #ffffff;
+  cursor:pointer;
+}
+.editinfo-save:hover{
+  background-color:#10ADC6;
+}
+.editinfo-save1:hover{
+  background-color:#8CDEEB;
+  color: white;
+}
+
